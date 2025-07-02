@@ -1,13 +1,6 @@
 # AIR-Airline-Reservation-System
 AIR Airline ticket reservation adalah aplikasi pemesanan tiket pesawat dari sisi admin yang berbasis java dan Mysql menggunakan Netbeans
 
-## Kelompok Umang umang
-
-Anggota:
-- Akhmad Nur Alamsyah (19102190) – Project Manager
-- Ikhfal Fauzia Rahman (19102057) – Analyst & Designer
-- Ainur Rafi Ramdhani (19102132) – Programmer 
-
 Penjelasan Program
 
 - Database **db.sql**
@@ -87,38 +80,3 @@ Script dibawah merupakan salah satu contoh script untuk men-generate customerID.
         }
     }                   
 ```
-
-Hasil Running Program:
-
-
-**Login**
-![Login](https://user-images.githubusercontent.com/35266075/128621325-a4984e11-7ab6-4565-9356-b505bf7003eb.png)
-
-
-**Main**
-![Main](https://user-images.githubusercontent.com/35266075/128621327-4dceac06-9544-4f8b-bd0b-284f48cfa91d.png)
-
-
-**User Creation**
-![User_Creation](https://user-images.githubusercontent.com/35266075/128621319-88d5e2a1-ca85-44d7-8f4a-d4e416e092b3.png)
-
-
-**Add Customer**
-![Add_Customer](https://user-images.githubusercontent.com/35266075/128621322-88639121-02d5-4531-b356-1a5cc27481c0.png)
-
-
-**Search Customer**
-![Search_Customer](https://user-images.githubusercontent.com/35266075/128621330-006d4ba1-9fa3-419a-87bc-a4b77c080696.png)
-
-
-**Add Flight**
-![Flight](https://user-images.githubusercontent.com/35266075/128621324-28fb2809-ef7b-4849-a7db-9c29ead230de.png)
-
-
-**Book Ticket**
-![Ticket](https://user-images.githubusercontent.com/35266075/128621312-93267fe1-d355-4c0c-8eea-3f105edbb8f0.png)
-
-
-**Ticket Report**
-![Ticket_Report](https://user-images.githubusercontent.com/35266075/128621316-ea36d0d7-154e-4caf-a1b1-a65ab770e678.png)
-

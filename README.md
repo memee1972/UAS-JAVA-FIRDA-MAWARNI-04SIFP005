@@ -1,13 +1,6 @@
 # AIR-Airline-Reservation-System
 AIR Airline ticket reservation adalah aplikasi pemesanan tiket pesawat dari sisi admin yang berbasis java dan Mysql menggunakan Netbeans
 
-## Kelompok Umang umang
-
-Anggota:
-- Akhmad Nur Alamsyah (19102190) – Project Manager
-- Ikhfal Fauzia Rahman (19102057) – Analyst & Designer
-- Ainur Rafi Ramdhani (19102132) – Programmer 
-
 Penjelasan Program
 
 - Database **db.sql**
